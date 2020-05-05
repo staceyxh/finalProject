@@ -74,7 +74,7 @@ var DrawScatter = function(majors,target,xScale,yScale,lengths)
         .append("rect")
         .attr("x",function(major)
         {
-            console.log(xScale(major,majorName));  
+            console.log(xScale(major.Major));  
         })
         .attr("y",function(major)
         {
