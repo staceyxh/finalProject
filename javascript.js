@@ -4,6 +4,10 @@
 
 var dur = 1000;
 
+var majorName = function(major){
+    return major.Major
+}
+
 var majorPromise = d3.csv("all-ages.csv");
 
 majorPromise.then(function(majors)
@@ -70,7 +74,7 @@ var DrawScatter = function(majors,target,xScale,yScale,lengths)
         .append("rect")
         .attr("x",function(major)
         {
-            return xScale(major.Employed);  
+            console.log(xScale(major,majorName));  
         })
         .attr("y",function(major)
         {
@@ -81,7 +85,9 @@ var DrawScatter = function(majors,target,xScale,yScale,lengths)
         { 
             return lengths.graph.height - yScale(major.Unemployed);
         })
-        .attr("fill","green")
+        .attr("rx",2)
+        .attr("ry",2)
+      
 }
 
 var initGraph = function(target,majors)
@@ -121,7 +127,7 @@ var initGraph = function(target,majors)
     //create scales for all of the dimensions
     
     
-    var xScale = d3.scaleLinear()
+    var xScale = d3.scaleBand()
         .domain([0,100000])
         .range([0,graph.width])
            
