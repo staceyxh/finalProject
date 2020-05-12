@@ -25,11 +25,11 @@ var updateGraph = function(target,majors,lengths)
     
     console.log("updating graph");
     
-    var scales = recalculateScales(majors,lengths);
+    /*var scales = recalculateScales(majors,lengths);
     var xScale = scales.xScale;
     var yScale = scales.yScale;
     
-    updateAxes(target,xScale,yScale);
+    updateAxes(target,xScale,yScale);*/
     
     //JOIN - Rebind the data
     var rects = d3.select(target)
@@ -189,7 +189,8 @@ var initGraph = function(target,majors)
         .classed("graph",true)
         .attr("transform","translate("+margins.left+","+
              margins.top+")");
-        
+    
+    
     //create scales for all of the dimensions
     
     createLabels(lengths,target);

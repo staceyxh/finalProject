@@ -1,0 +1,1471 @@
+﻿EducationField,EnvironmentSatisfaction,Gender,JobSatisfaction,MaritalStatus,PerformanceRating,RelationshipSatisfaction
+Human Resources,1,Male,1,Married,3,4
+Human Resources,1,Male,4,Married,3,3
+Human Resources,1,Male,2,Divorced,3,4
+Human Resources,1,Male,1,Divorced,3,4
+Human Resources,1,Female,2,Married,3,1
+Human Resources,2,Female,1,Divorced,3,3
+Human Resources,2,Male,4,Divorced,3,2
+Human Resources,2,Male,3,Married,3,4
+Human Resources,2,Male,4,Single,4,4
+Human Resources,3,Male,1,Divorced,4,4
+Human Resources,3,Female,4,Married,4,4
+Human Resources,3,Male,4,Married,3,4
+Human Resources,3,Female,2,Married,3,3
+Human Resources,3,Male,2,Married,3,2
+Human Resources,3,Male,4,Married,3,3
+Human Resources,3,Male,3,Married,3,4
+Human Resources,3,Female,1,Married,3,3
+Human Resources,3,Male,3,Married,3,3
+Human Resources,3,Male,2,Married,3,2
+Human Resources,3,Female,4,Divorced,3,3
+Human Resources,3,Male,2,Married,3,1
+Human Resources,3,Female,2,Married,3,3
+Human Resources,4,Female,4,Single,3,3
+Human Resources,4,Male,3,Married,3,2
+Human Resources,4,Male,2,Divorced,3,3
+Human Resources,4,Male,3,Married,3,3
+Human Resources,4,Male,1,Married,3,3
+Life Sciences,1,Male,3,Divorced,3,4
+Life Sciences,1,Male,2,Divorced,3,4
+Life Sciences,1,Female,4,Married,3,3
+Life Sciences,1,Female,2,Single,3,3
+Life Sciences,1,Male,3,Single,3,3
+Life Sciences,1,Male,3,Single,3,4
+Life Sciences,1,Female,4,Single,3,3
+Life Sciences,1,Male,3,Divorced,3,3
+Life Sciences,1,Female,1,Single,3,4
+Life Sciences,1,Female,3,Single,3,4
+Life Sciences,1,Male,4,Married,3,4
+Life Sciences,1,Female,2,Married,3,1
+Life Sciences,1,Male,3,Single,4,4
+Life Sciences,1,Female,4,Divorced,4,1
+Life Sciences,1,Male,3,Divorced,4,3
+Life Sciences,1,Male,3,Single,3,3
+Life Sciences,1,Male,4,Single,3,4
+Life Sciences,1,Male,3,Married,3,4
+Life Sciences,1,Female,3,Single,3,3
+Life Sciences,1,Male,3,Divorced,3,1
+Life Sciences,1,Female,4,Single,4,3
+Life Sciences,1,Male,3,Divorced,3,3
+Life Sciences,1,Female,1,Married,4,1
+Life Sciences,1,Male,3,Single,3,4
+Life Sciences,1,Male,3,Married,3,4
+Life Sciences,1,Female,3,Married,3,4
+Life Sciences,1,Male,3,Single,3,3
+Life Sciences,1,Male,2,Married,3,4
+Life Sciences,1,Male,2,Divorced,3,1
+Life Sciences,1,Female,2,Married,3,3
+Life Sciences,1,Male,1,Divorced,3,1
+Life Sciences,1,Female,4,Single,3,2
+Life Sciences,1,Male,2,Divorced,3,3
+Life Sciences,1,Male,4,Married,4,4
+Life Sciences,1,Female,3,Divorced,3,2
+Life Sciences,1,Female,1,Married,3,4
+Life Sciences,1,Female,4,Divorced,4,2
+Life Sciences,1,Male,3,Married,3,3
+Life Sciences,1,Male,3,Married,3,1
+Life Sciences,1,Female,2,Single,4,4
+Life Sciences,1,Female,3,Married,3,4
+Life Sciences,1,Female,3,Single,3,2
+Life Sciences,1,Female,4,Married,3,4
+Life Sciences,1,Female,1,Married,3,4
+Life Sciences,1,Male,1,Single,3,1
+Life Sciences,1,Female,3,Single,3,1
+Life Sciences,1,Female,2,Single,3,4
+Life Sciences,1,Female,1,Married,3,1
+Life Sciences,1,Male,4,Married,3,4
+Life Sciences,1,Male,1,Single,3,2
+Life Sciences,1,Female,4,Divorced,3,1
+Life Sciences,1,Female,1,Single,3,4
+Life Sciences,1,Female,4,Married,3,2
+Life Sciences,1,Male,1,Divorced,3,3
+Life Sciences,1,Male,4,Married,4,3
+Life Sciences,1,Male,1,Married,4,3
+Life Sciences,1,Male,4,Married,3,4
+Life Sciences,1,Male,1,Divorced,3,4
+Life Sciences,1,Male,4,Single,4,3
+Life Sciences,1,Female,2,Divorced,4,3
+Life Sciences,1,Male,3,Married,3,3
+Life Sciences,1,Male,3,Single,3,4
+Life Sciences,1,Female,3,Married,3,2
+Life Sciences,1,Male,3,Single,3,4
+Life Sciences,1,Female,4,Married,3,2
+Life Sciences,1,Male,4,Married,3,2
+Life Sciences,1,Male,1,Married,3,2
+Life Sciences,1,Male,3,Married,3,3
+Life Sciences,1,Male,3,Married,3,4
+Life Sciences,1,Male,3,Divorced,3,4
+Life Sciences,1,Male,4,Single,3,3
+Life Sciences,1,Male,4,Divorced,3,4
+Life Sciences,1,Male,4,Single,4,1
+Life Sciences,1,Male,2,Married,3,1
+Life Sciences,1,Male,3,Single,3,1
+Life Sciences,1,Male,1,Divorced,3,1
+Life Sciences,1,Male,1,Married,3,4
+Life Sciences,1,Female,4,Married,3,4
+Life Sciences,1,Female,4,Divorced,3,1
+Life Sciences,1,Male,3,Divorced,3,2
+Life Sciences,1,Female,3,Single,4,3
+Life Sciences,1,Male,3,Divorced,3,4
+Life Sciences,1,Male,3,Single,3,1
+Life Sciences,1,Male,1,Married,3,3
+Life Sciences,1,Male,4,Married,3,4
+Life Sciences,1,Male,3,Married,3,2
+Life Sciences,1,Male,1,Single,4,1
+Life Sciences,1,Female,2,Single,3,3
+Life Sciences,1,Female,2,Single,3,3
+Life Sciences,1,Male,4,Single,3,3
+Life Sciences,1,Male,1,Married,3,1
+Life Sciences,1,Female,1,Married,4,4
+Life Sciences,1,Male,4,Divorced,3,1
+Life Sciences,1,Female,1,Single,4,2
+Life Sciences,1,Male,3,Divorced,3,4
+Life Sciences,1,Male,3,Single,3,2
+Life Sciences,1,Male,1,Married,3,4
+Life Sciences,1,Female,1,Divorced,3,4
+Life Sciences,1,Female,4,Married,4,1
+Life Sciences,1,Male,4,Divorced,3,4
+Life Sciences,1,Male,1,Married,3,4
+Life Sciences,1,Female,3,Married,3,4
+Life Sciences,1,Male,1,Single,3,2
+Life Sciences,1,Male,2,Single,3,3
+Life Sciences,1,Female,4,Married,3,1
+Life Sciences,1,Male,3,Married,3,2
+Life Sciences,1,Male,3,Married,3,1
+Life Sciences,1,Male,2,Single,3,2
+Life Sciences,1,Female,1,Single,4,3
+Life Sciences,1,Male,3,Single,3,3
+Life Sciences,1,Male,3,Married,3,2
+Life Sciences,1,Male,4,Married,4,3
+Life Sciences,1,Male,1,Divorced,3,1
+Life Sciences,1,Male,4,Single,3,4
+Life Sciences,1,Female,3,Married,3,3
+Life Sciences,1,Female,3,Single,3,1
+Life Sciences,1,Male,2,Married,4,2
+Life Sciences,1,Male,1,Married,3,1
+Life Sciences,1,Male,1,Single,3,1
+Life Sciences,1,Male,1,Single,3,2
+Life Sciences,1,Female,3,Married,3,3
+Life Sciences,1,Male,3,Married,3,2
+Life Sciences,1,Male,3,Married,3,3
+Life Sciences,1,Male,3,Married,3,4
+Life Sciences,1,Male,4,Married,3,3
+Life Sciences,1,Male,4,Single,3,1
+Life Sciences,1,Male,4,Divorced,3,2
+Life Sciences,1,Male,3,Married,3,1
+Life Sciences,1,Female,2,Married,4,3
+Life Sciences,1,Female,4,Married,3,3
+Life Sciences,2,Female,4,Single,3,1
+Life Sciences,2,Female,1,Divorced,3,3
+Life Sciences,2,Female,1,Single,4,2
+Life Sciences,2,Female,1,Married,3,4
+Life Sciences,2,Male,2,Married,4,1
+Life Sciences,2,Male,1,Married,4,4
+Life Sciences,2,Male,2,Single,3,3
+Life Sciences,2,Male,1,Divorced,3,3
+Life Sciences,2,Male,2,Married,3,2
+Life Sciences,2,Female,4,Married,3,2
+Life Sciences,2,Male,3,Married,3,3
+Life Sciences,2,Female,2,Married,3,1
+Life Sciences,2,Male,3,Married,3,2
+Life Sciences,2,Female,3,Married,3,3
+Life Sciences,2,Male,2,Divorced,3,3
+Life Sciences,2,Female,4,Married,3,3
+Life Sciences,2,Male,4,Single,4,3
+Life Sciences,2,Male,3,Married,3,1
+Life Sciences,2,Male,1,Married,3,1
+Life Sciences,2,Male,2,Married,3,4
+Life Sciences,2,Male,2,Married,4,3
+Life Sciences,2,Male,1,Divorced,3,4
+Life Sciences,2,Female,2,Divorced,3,2
+Life Sciences,2,Male,3,Married,4,3
+Life Sciences,2,Male,4,Single,3,1
+Life Sciences,2,Female,2,Married,3,3
+Life Sciences,2,Male,4,Single,3,4
+Life Sciences,2,Female,1,Divorced,3,2
+Life Sciences,2,Female,4,Single,3,2
+Life Sciences,2,Male,3,Divorced,3,3
+Life Sciences,2,Male,3,Married,3,2
+Life Sciences,2,Female,3,Single,3,3
+Life Sciences,2,Male,4,Single,3,3
+Life Sciences,2,Female,3,Divorced,3,2
+Life Sciences,2,Female,1,Married,3,2
+Life Sciences,2,Female,2,Married,3,2
+Life Sciences,2,Male,1,Married,3,3
+Life Sciences,2,Male,4,Married,3,4
+Life Sciences,2,Male,4,Married,3,4
+Life Sciences,2,Male,4,Single,3,2
+Life Sciences,2,Male,4,Divorced,3,4
+Life Sciences,2,Female,4,Single,3,3
+Life Sciences,2,Female,1,Divorced,3,3
+Life Sciences,2,Female,3,Single,3,4
+Life Sciences,2,Female,4,Single,3,3
+Life Sciences,2,Male,4,Divorced,3,2
+Life Sciences,2,Female,1,Married,3,4
+Life Sciences,2,Female,3,Single,3,4
+Life Sciences,2,Male,2,Married,3,4
+Life Sciences,2,Male,1,Married,4,3
+Life Sciences,2,Male,4,Married,3,4
+Life Sciences,2,Male,4,Divorced,3,3
+Life Sciences,2,Male,4,Divorced,3,2
+Life Sciences,2,Male,2,Married,3,4
+Life Sciences,2,Male,1,Married,3,4
+Life Sciences,2,Female,3,Married,3,1
+Life Sciences,2,Female,4,Divorced,3,3
+Life Sciences,2,Female,3,Single,3,3
+Life Sciences,2,Male,2,Divorced,3,2
+Life Sciences,2,Male,3,Married,3,2
+Life Sciences,2,Female,4,Single,3,1
+Life Sciences,2,Female,2,Single,3,4
+Life Sciences,2,Female,4,Single,3,1
+Life Sciences,2,Male,4,Single,3,4
+Life Sciences,2,Female,1,Married,3,3
+Life Sciences,2,Male,1,Married,3,1
+Life Sciences,2,Female,3,Divorced,4,2
+Life Sciences,2,Male,4,Single,3,3
+Life Sciences,2,Female,4,Single,3,4
+Life Sciences,2,Female,3,Married,3,4
+Life Sciences,2,Male,2,Single,3,4
+Life Sciences,2,Male,4,Married,3,1
+Life Sciences,2,Female,3,Married,4,1
+Life Sciences,2,Female,4,Married,3,1
+Life Sciences,2,Female,4,Single,3,4
+Life Sciences,2,Male,2,Single,3,3
+Life Sciences,2,Female,1,Divorced,3,4
+Life Sciences,2,Male,2,Married,4,3
+Life Sciences,2,Male,4,Married,3,1
+Life Sciences,2,Female,3,Single,3,2
+Life Sciences,2,Male,1,Married,3,2
+Life Sciences,2,Male,4,Married,3,3
+Life Sciences,2,Male,3,Married,4,1
+Life Sciences,2,Female,2,Single,3,4
+Life Sciences,2,Male,3,Married,3,2
+Life Sciences,2,Female,3,Married,4,1
+Life Sciences,2,Male,1,Married,3,4
+Life Sciences,2,Male,4,Married,3,2
+Life Sciences,2,Female,2,Single,3,2
+Life Sciences,2,Female,3,Single,3,1
+Life Sciences,2,Male,3,Married,3,4
+Life Sciences,2,Male,1,Married,3,4
+Life Sciences,2,Female,1,Married,3,3
+Life Sciences,2,Female,2,Divorced,3,3
+Life Sciences,2,Female,4,Married,3,2
+Life Sciences,2,Male,3,Married,3,4
+Life Sciences,2,Female,1,Married,3,2
+Life Sciences,2,Male,4,Married,3,2
+Life Sciences,2,Male,4,Single,3,2
+Life Sciences,2,Male,2,Single,3,3
+Life Sciences,2,Male,2,Single,3,1
+Life Sciences,2,Female,1,Divorced,3,2
+Life Sciences,2,Female,3,Single,3,3
+Life Sciences,2,Male,3,Divorced,3,1
+Life Sciences,2,Female,4,Married,3,4
+Life Sciences,2,Female,3,Married,3,3
+Life Sciences,2,Male,1,Married,3,4
+Life Sciences,2,Male,4,Divorced,3,4
+Life Sciences,2,Male,4,Married,3,4
+Life Sciences,2,Male,3,Single,3,2
+Life Sciences,2,Male,3,Divorced,3,4
+Life Sciences,2,Male,2,Married,4,2
+Life Sciences,3,Male,2,Married,4,4
+Life Sciences,3,Male,3,Single,3,2
+Life Sciences,3,Male,1,Single,4,2
+Life Sciences,3,Male,4,Single,3,4
+Life Sciences,3,Female,1,Married,3,1
+Life Sciences,3,Male,2,Married,4,4
+Life Sciences,3,Female,4,Single,4,4
+Life Sciences,3,Male,4,Married,3,1
+Life Sciences,3,Male,2,Married,4,4
+Life Sciences,3,Male,4,Divorced,3,4
+Life Sciences,3,Female,2,Divorced,3,3
+Life Sciences,3,Male,4,Single,3,1
+Life Sciences,3,Male,4,Married,3,4
+Life Sciences,3,Male,3,Divorced,3,3
+Life Sciences,3,Female,3,Married,4,4
+Life Sciences,3,Male,1,Married,4,4
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Female,2,Single,3,2
+Life Sciences,3,Male,3,Single,4,1
+Life Sciences,3,Female,1,Divorced,3,1
+Life Sciences,3,Female,1,Divorced,3,3
+Life Sciences,3,Male,4,Single,3,1
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Male,3,Married,3,1
+Life Sciences,3,Male,3,Single,4,3
+Life Sciences,3,Male,4,Married,3,1
+Life Sciences,3,Female,4,Single,3,2
+Life Sciences,3,Female,2,Married,3,1
+Life Sciences,3,Male,1,Divorced,3,1
+Life Sciences,3,Female,4,Married,3,3
+Life Sciences,3,Male,4,Single,3,1
+Life Sciences,3,Male,4,Married,3,2
+Life Sciences,3,Female,2,Divorced,4,1
+Life Sciences,3,Female,1,Single,3,4
+Life Sciences,3,Male,3,Single,3,3
+Life Sciences,3,Male,4,Married,3,4
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Female,4,Single,3,1
+Life Sciences,3,Female,2,Single,3,2
+Life Sciences,3,Female,3,Married,4,1
+Life Sciences,3,Female,3,Divorced,3,2
+Life Sciences,3,Female,1,Married,3,1
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Male,4,Divorced,3,3
+Life Sciences,3,Male,3,Married,3,2
+Life Sciences,3,Male,2,Single,3,4
+Life Sciences,3,Female,2,Single,3,4
+Life Sciences,3,Male,2,Single,3,3
+Life Sciences,3,Female,4,Married,3,3
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Male,2,Single,3,4
+Life Sciences,3,Female,1,Married,3,4
+Life Sciences,3,Female,4,Single,4,3
+Life Sciences,3,Female,3,Married,3,4
+Life Sciences,3,Male,4,Married,3,3
+Life Sciences,3,Female,3,Single,3,3
+Life Sciences,3,Male,2,Divorced,4,4
+Life Sciences,3,Female,3,Married,3,1
+Life Sciences,3,Male,4,Divorced,4,3
+Life Sciences,3,Female,4,Married,3,2
+Life Sciences,3,Female,1,Single,3,4
+Life Sciences,3,Female,4,Married,3,3
+Life Sciences,3,Male,4,Divorced,4,3
+Life Sciences,3,Male,3,Married,3,3
+Life Sciences,3,Female,1,Married,3,4
+Life Sciences,3,Female,4,Single,3,4
+Life Sciences,3,Male,3,Married,3,3
+Life Sciences,3,Female,3,Single,3,4
+Life Sciences,3,Male,3,Single,3,3
+Life Sciences,3,Female,1,Married,3,2
+Life Sciences,3,Male,1,Married,4,3
+Life Sciences,3,Male,2,Divorced,3,3
+Life Sciences,3,Male,3,Married,4,3
+Life Sciences,3,Female,3,Married,3,3
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Female,4,Married,3,2
+Life Sciences,3,Male,4,Married,3,1
+Life Sciences,3,Female,2,Married,4,3
+Life Sciences,3,Male,4,Married,3,1
+Life Sciences,3,Male,2,Married,3,2
+Life Sciences,3,Female,1,Married,3,3
+Life Sciences,3,Male,3,Single,3,2
+Life Sciences,3,Female,4,Single,3,1
+Life Sciences,3,Female,1,Single,3,3
+Life Sciences,3,Female,3,Married,3,4
+Life Sciences,3,Female,3,Married,3,2
+Life Sciences,3,Female,1,Single,3,1
+Life Sciences,3,Female,3,Married,3,1
+Life Sciences,3,Male,4,Married,3,4
+Life Sciences,3,Female,4,Divorced,4,1
+Life Sciences,3,Female,1,Married,3,3
+Life Sciences,3,Male,2,Single,3,3
+Life Sciences,3,Male,4,Married,3,1
+Life Sciences,3,Male,3,Divorced,3,4
+Life Sciences,3,Male,1,Single,3,2
+Life Sciences,3,Female,4,Married,3,4
+Life Sciences,3,Male,2,Divorced,3,2
+Life Sciences,3,Female,1,Divorced,3,3
+Life Sciences,3,Male,1,Single,4,3
+Life Sciences,3,Male,3,Single,3,3
+Life Sciences,3,Male,4,Married,3,2
+Life Sciences,3,Male,1,Divorced,3,3
+Life Sciences,3,Male,1,Married,3,4
+Life Sciences,3,Male,3,Divorced,3,3
+Life Sciences,3,Male,3,Divorced,3,1
+Life Sciences,3,Male,4,Single,3,2
+Life Sciences,3,Female,4,Single,3,4
+Life Sciences,3,Male,4,Married,3,2
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Male,4,Single,3,4
+Life Sciences,3,Male,4,Single,4,2
+Life Sciences,3,Male,1,Divorced,3,4
+Life Sciences,3,Male,2,Married,3,4
+Life Sciences,3,Male,3,Married,3,4
+Life Sciences,3,Female,2,Single,3,4
+Life Sciences,3,Female,4,Married,3,1
+Life Sciences,3,Male,3,Married,3,4
+Life Sciences,3,Male,3,Divorced,3,2
+Life Sciences,3,Male,4,Single,3,3
+Life Sciences,3,Male,3,Single,3,2
+Life Sciences,3,Male,2,Divorced,3,2
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Male,1,Married,3,3
+Life Sciences,3,Male,3,Married,3,4
+Life Sciences,3,Male,3,Married,4,2
+Life Sciences,3,Male,4,Single,3,3
+Life Sciences,3,Female,2,Single,3,1
+Life Sciences,3,Male,3,Single,3,4
+Life Sciences,3,Male,2,Divorced,3,2
+Life Sciences,3,Male,3,Divorced,3,3
+Life Sciences,3,Male,3,Divorced,4,1
+Life Sciences,3,Male,1,Single,3,4
+Life Sciences,3,Male,2,Married,3,2
+Life Sciences,3,Female,2,Married,3,4
+Life Sciences,3,Male,4,Single,4,4
+Life Sciences,3,Female,3,Divorced,3,3
+Life Sciences,3,Male,3,Married,3,1
+Life Sciences,3,Male,2,Married,3,4
+Life Sciences,3,Male,4,Married,3,4
+Life Sciences,3,Female,3,Married,3,2
+Life Sciences,3,Male,4,Divorced,3,1
+Life Sciences,3,Female,1,Married,3,4
+Life Sciences,3,Female,3,Married,3,4
+Life Sciences,3,Male,3,Married,3,1
+Life Sciences,3,Female,4,Single,3,4
+Life Sciences,3,Female,3,Married,3,2
+Life Sciences,3,Male,3,Married,4,1
+Life Sciences,3,Male,3,Single,3,1
+Life Sciences,3,Female,4,Divorced,4,3
+Life Sciences,3,Female,4,Divorced,3,1
+Life Sciences,3,Male,4,Divorced,4,2
+Life Sciences,3,Female,4,Married,3,2
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Male,3,Married,4,4
+Life Sciences,3,Male,3,Married,3,3
+Life Sciences,3,Male,2,Single,3,4
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Female,3,Married,4,3
+Life Sciences,3,Male,3,Married,3,3
+Life Sciences,3,Male,1,Divorced,4,2
+Life Sciences,3,Male,4,Single,3,4
+Life Sciences,3,Male,4,Married,3,3
+Life Sciences,3,Female,1,Married,3,4
+Life Sciences,3,Male,4,Divorced,3,4
+Life Sciences,3,Female,4,Divorced,3,4
+Life Sciences,3,Female,2,Divorced,3,3
+Life Sciences,3,Female,3,Married,4,2
+Life Sciences,3,Male,4,Divorced,3,2
+Life Sciences,3,Female,2,Married,4,3
+Life Sciences,3,Male,4,Married,3,4
+Life Sciences,3,Male,4,Married,3,3
+Life Sciences,3,Female,4,Married,3,4
+Life Sciences,3,Female,2,Single,3,3
+Life Sciences,3,Female,4,Married,4,1
+Life Sciences,3,Male,3,Divorced,4,1
+Life Sciences,3,Male,2,Divorced,3,3
+Life Sciences,3,Female,4,Single,3,3
+Life Sciences,3,Male,3,Single,3,4
+Life Sciences,3,Male,3,Married,3,4
+Life Sciences,3,Female,4,Married,3,4
+Life Sciences,4,Female,3,Married,3,3
+Life Sciences,4,Male,4,Single,3,3
+Life Sciences,4,Male,3,Divorced,4,2
+Life Sciences,4,Male,3,Single,4,2
+Life Sciences,4,Female,3,Single,3,4
+Life Sciences,4,Male,4,Single,3,3
+Life Sciences,4,Female,1,Divorced,3,4
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,4,Married,3,4
+Life Sciences,4,Male,4,Divorced,4,4
+Life Sciences,4,Female,4,Single,3,4
+Life Sciences,4,Male,4,Married,3,3
+Life Sciences,4,Male,4,Single,3,1
+Life Sciences,4,Male,4,Married,4,2
+Life Sciences,4,Male,1,Single,3,4
+Life Sciences,4,Female,4,Single,3,2
+Life Sciences,4,Female,3,Married,3,3
+Life Sciences,4,Male,1,Divorced,3,2
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Male,3,Married,3,2
+Life Sciences,4,Male,4,Divorced,3,1
+Life Sciences,4,Male,2,Divorced,3,1
+Life Sciences,4,Male,4,Married,3,4
+Life Sciences,4,Female,3,Single,3,4
+Life Sciences,4,Female,4,Single,3,3
+Life Sciences,4,Male,2,Single,3,4
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,1,Married,3,2
+Life Sciences,4,Female,1,Single,3,3
+Life Sciences,4,Male,4,Married,3,4
+Life Sciences,4,Male,4,Married,3,3
+Life Sciences,4,Female,4,Single,3,2
+Life Sciences,4,Male,3,Divorced,4,4
+Life Sciences,4,Male,4,Divorced,3,2
+Life Sciences,4,Female,4,Single,4,4
+Life Sciences,4,Male,2,Single,3,2
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Male,3,Divorced,3,4
+Life Sciences,4,Female,2,Married,3,2
+Life Sciences,4,Male,3,Single,3,1
+Life Sciences,4,Male,3,Married,3,2
+Life Sciences,4,Female,3,Single,3,4
+Life Sciences,4,Male,3,Married,3,1
+Life Sciences,4,Female,3,Married,3,3
+Life Sciences,4,Male,4,Single,3,4
+Life Sciences,4,Female,3,Married,3,2
+Life Sciences,4,Female,1,Divorced,3,3
+Life Sciences,4,Male,1,Married,3,3
+Life Sciences,4,Female,4,Married,3,4
+Life Sciences,4,Male,4,Married,4,3
+Life Sciences,4,Male,3,Single,3,3
+Life Sciences,4,Male,3,Divorced,3,3
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Male,4,Single,3,4
+Life Sciences,4,Male,4,Single,3,4
+Life Sciences,4,Male,3,Divorced,3,3
+Life Sciences,4,Female,2,Single,3,4
+Life Sciences,4,Female,1,Married,3,1
+Life Sciences,4,Male,2,Married,4,3
+Life Sciences,4,Male,4,Single,3,1
+Life Sciences,4,Male,1,Married,4,3
+Life Sciences,4,Male,1,Divorced,4,3
+Life Sciences,4,Male,4,Married,3,3
+Life Sciences,4,Male,4,Single,3,4
+Life Sciences,4,Female,1,Divorced,3,1
+Life Sciences,4,Female,1,Divorced,3,2
+Life Sciences,4,Male,3,Married,4,3
+Life Sciences,4,Female,3,Married,4,2
+Life Sciences,4,Male,2,Single,3,4
+Life Sciences,4,Female,3,Single,3,3
+Life Sciences,4,Female,4,Married,3,4
+Life Sciences,4,Male,4,Married,4,1
+Life Sciences,4,Female,3,Married,4,2
+Life Sciences,4,Female,2,Divorced,3,1
+Life Sciences,4,Male,4,Divorced,3,2
+Life Sciences,4,Male,4,Married,3,2
+Life Sciences,4,Female,4,Single,3,3
+Life Sciences,4,Female,4,Married,3,2
+Life Sciences,4,Female,4,Married,3,3
+Life Sciences,4,Male,4,Divorced,3,4
+Life Sciences,4,Female,4,Single,3,1
+Life Sciences,4,Female,4,Married,4,4
+Life Sciences,4,Male,4,Married,3,2
+Life Sciences,4,Male,4,Divorced,3,2
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Female,1,Single,4,3
+Life Sciences,4,Male,1,Married,3,3
+Life Sciences,4,Female,4,Single,3,3
+Life Sciences,4,Male,3,Married,3,4
+Life Sciences,4,Female,4,Married,3,3
+Life Sciences,4,Female,3,Married,3,1
+Life Sciences,4,Female,4,Married,3,2
+Life Sciences,4,Female,1,Divorced,4,1
+Life Sciences,4,Male,2,Married,3,2
+Life Sciences,4,Male,4,Divorced,3,3
+Life Sciences,4,Female,4,Divorced,3,3
+Life Sciences,4,Female,2,Married,3,3
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Female,2,Divorced,3,4
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Female,1,Married,3,1
+Life Sciences,4,Female,4,Married,3,2
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,2,Married,3,1
+Life Sciences,4,Female,2,Married,3,1
+Life Sciences,4,Female,3,Single,3,4
+Life Sciences,4,Female,3,Divorced,3,1
+Life Sciences,4,Male,4,Married,3,1
+Life Sciences,4,Male,4,Single,3,3
+Life Sciences,4,Female,4,Divorced,3,2
+Life Sciences,4,Male,3,Married,4,4
+Life Sciences,4,Male,2,Divorced,4,1
+Life Sciences,4,Male,4,Married,3,2
+Life Sciences,4,Male,3,Married,3,1
+Life Sciences,4,Female,1,Single,3,3
+Life Sciences,4,Female,1,Married,3,2
+Life Sciences,4,Female,3,Divorced,3,1
+Life Sciences,4,Female,2,Single,3,1
+Life Sciences,4,Male,2,Single,3,1
+Life Sciences,4,Male,4,Divorced,3,4
+Life Sciences,4,Male,4,Single,3,3
+Life Sciences,4,Female,4,Single,3,3
+Life Sciences,4,Male,4,Single,4,2
+Life Sciences,4,Male,2,Married,3,1
+Life Sciences,4,Male,3,Divorced,3,4
+Life Sciences,4,Female,4,Divorced,3,1
+Life Sciences,4,Female,3,Single,3,4
+Life Sciences,4,Female,2,Married,3,1
+Life Sciences,4,Male,2,Single,3,3
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Male,3,Married,3,1
+Life Sciences,4,Female,2,Married,3,3
+Life Sciences,4,Male,3,Married,3,2
+Life Sciences,4,Female,2,Married,3,3
+Life Sciences,4,Male,3,Single,3,1
+Life Sciences,4,Male,1,Married,3,3
+Life Sciences,4,Female,2,Single,3,4
+Life Sciences,4,Male,1,Single,3,2
+Life Sciences,4,Female,3,Single,3,1
+Life Sciences,4,Male,2,Single,3,4
+Life Sciences,4,Male,4,Married,3,3
+Life Sciences,4,Male,4,Divorced,3,3
+Life Sciences,4,Female,2,Married,3,1
+Life Sciences,4,Female,1,Married,3,3
+Life Sciences,4,Male,1,Single,3,2
+Life Sciences,4,Female,3,Married,3,3
+Life Sciences,4,Male,3,Divorced,3,3
+Life Sciences,4,Female,1,Divorced,3,3
+Life Sciences,4,Female,2,Divorced,3,3
+Life Sciences,4,Male,1,Divorced,4,1
+Life Sciences,4,Male,4,Married,3,4
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,1,Single,3,1
+Life Sciences,4,Male,2,Single,3,1
+Life Sciences,4,Male,3,Married,3,2
+Life Sciences,4,Male,4,Married,3,4
+Life Sciences,4,Male,3,Married,3,3
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,3,Divorced,3,3
+Life Sciences,4,Female,4,Single,3,1
+Life Sciences,4,Male,1,Married,3,4
+Life Sciences,4,Male,1,Married,3,2
+Life Sciences,4,Male,1,Married,3,3
+Life Sciences,4,Female,4,Single,3,3
+Life Sciences,4,Male,4,Divorced,3,3
+Life Sciences,4,Male,3,Divorced,3,4
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,2,Married,3,4
+Life Sciences,4,Male,4,Single,4,2
+Life Sciences,4,Female,1,Married,3,4
+Life Sciences,4,Male,2,Single,4,1
+Life Sciences,4,Male,1,Single,3,2
+Life Sciences,4,Female,4,Married,3,3
+Life Sciences,4,Male,1,Married,4,2
+Life Sciences,4,Male,4,Single,4,2
+Life Sciences,4,Male,3,Divorced,4,3
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,2,Married,3,1
+Life Sciences,4,Male,1,Divorced,3,3
+Life Sciences,4,Male,4,Married,4,1
+Life Sciences,4,Male,3,Single,3,4
+Life Sciences,4,Male,4,Single,3,3
+Life Sciences,4,Female,2,Divorced,3,2
+Life Sciences,4,Female,3,Single,3,3
+Marketing,1,Male,3,Married,3,3
+Marketing,1,Male,4,Single,4,3
+Marketing,1,Male,4,Divorced,3,3
+Marketing,1,Male,2,Single,3,3
+Marketing,1,Male,4,Single,3,2
+Marketing,1,Male,4,Divorced,3,3
+Marketing,1,Male,2,Married,4,4
+Marketing,1,Male,1,Single,3,4
+Marketing,1,Female,1,Single,3,3
+Marketing,1,Female,3,Married,3,3
+Marketing,1,Female,4,Married,3,4
+Marketing,1,Male,4,Married,3,3
+Marketing,1,Male,2,Divorced,3,2
+Marketing,1,Female,4,Married,3,4
+Marketing,1,Male,3,Married,3,4
+Marketing,1,Female,1,Single,3,1
+Marketing,1,Female,3,Single,3,2
+Marketing,1,Female,2,Single,3,1
+Marketing,1,Female,1,Married,3,4
+Marketing,1,Male,3,Single,3,3
+Marketing,1,Female,2,Single,3,4
+Marketing,1,Male,4,Divorced,3,1
+Marketing,1,Female,3,Married,3,3
+Marketing,1,Male,1,Married,3,1
+Marketing,1,Male,3,Married,3,1
+Marketing,1,Female,4,Married,3,1
+Marketing,1,Female,1,Married,3,4
+Marketing,1,Male,4,Single,4,1
+Marketing,1,Male,4,Married,3,3
+Marketing,2,Female,1,Single,3,4
+Marketing,2,Male,3,Single,4,3
+Marketing,2,Female,1,Divorced,4,3
+Marketing,2,Male,3,Married,4,4
+Marketing,2,Female,4,Single,3,4
+Marketing,2,Female,1,Divorced,4,3
+Marketing,2,Female,2,Single,4,4
+Marketing,2,Female,4,Married,4,4
+Marketing,2,Male,4,Single,3,3
+Marketing,2,Female,2,Married,3,1
+Marketing,2,Male,1,Married,3,3
+Marketing,2,Female,4,Married,3,1
+Marketing,2,Male,3,Married,3,3
+Marketing,2,Male,2,Single,3,4
+Marketing,2,Male,2,Married,3,4
+Marketing,2,Female,2,Married,4,1
+Marketing,2,Male,2,Married,3,4
+Marketing,2,Male,4,Divorced,3,4
+Marketing,2,Male,1,Single,3,4
+Marketing,2,Male,4,Divorced,3,2
+Marketing,2,Male,2,Married,3,3
+Marketing,2,Male,2,Married,3,2
+Marketing,2,Male,1,Divorced,3,2
+Marketing,2,Female,2,Single,3,3
+Marketing,2,Male,2,Single,3,2
+Marketing,2,Male,2,Married,3,1
+Marketing,2,Female,4,Married,4,1
+Marketing,2,Male,3,Single,3,2
+Marketing,2,Male,4,Divorced,3,3
+Marketing,2,Male,1,Single,3,1
+Marketing,2,Female,2,Married,3,3
+Marketing,2,Female,4,Married,3,1
+Marketing,2,Female,4,Married,3,1
+Marketing,3,Male,2,Married,3,4
+Marketing,3,Female,4,Married,3,3
+Marketing,3,Male,1,Single,3,2
+Marketing,3,Male,4,Single,4,4
+Marketing,3,Male,3,Single,3,4
+Marketing,3,Male,2,Married,3,1
+Marketing,3,Female,4,Single,3,4
+Marketing,3,Male,2,Married,3,1
+Marketing,3,Male,4,Married,3,1
+Marketing,3,Female,3,Married,3,4
+Marketing,3,Female,1,Single,3,3
+Marketing,3,Female,3,Single,3,1
+Marketing,3,Male,4,Married,3,1
+Marketing,3,Female,2,Married,3,4
+Marketing,3,Male,2,Married,3,3
+Marketing,3,Male,2,Married,3,4
+Marketing,3,Male,3,Married,3,1
+Marketing,3,Female,3,Married,3,1
+Marketing,3,Female,1,Married,3,4
+Marketing,3,Female,4,Married,3,3
+Marketing,3,Male,1,Divorced,3,2
+Marketing,3,Male,3,Divorced,3,4
+Marketing,3,Male,4,Divorced,4,4
+Marketing,3,Male,1,Married,3,1
+Marketing,3,Male,4,Married,3,2
+Marketing,3,Female,4,Married,3,1
+Marketing,3,Male,1,Married,3,1
+Marketing,3,Female,4,Married,4,1
+Marketing,3,Male,2,Married,3,3
+Marketing,3,Female,2,Married,3,1
+Marketing,3,Male,1,Married,3,2
+Marketing,3,Male,3,Divorced,3,2
+Marketing,3,Male,3,Married,3,1
+Marketing,3,Female,1,Married,4,1
+Marketing,3,Male,4,Single,3,4
+Marketing,3,Female,4,Married,3,2
+Marketing,3,Female,1,Single,3,4
+Marketing,3,Female,1,Divorced,3,4
+Marketing,3,Male,2,Married,3,1
+Marketing,3,Female,1,Married,3,1
+Marketing,3,Male,1,Divorced,3,1
+Marketing,3,Male,4,Married,4,3
+Marketing,3,Male,3,Married,3,3
+Marketing,3,Male,2,Married,3,4
+Marketing,3,Male,1,Divorced,3,1
+Marketing,3,Female,3,Divorced,3,4
+Marketing,3,Male,2,Single,3,3
+Marketing,3,Male,2,Married,3,3
+Marketing,3,Female,2,Married,4,3
+Marketing,3,Female,4,Married,3,3
+Marketing,4,Female,4,Married,3,1
+Marketing,4,Male,3,Single,3,4
+Marketing,4,Female,1,Married,3,4
+Marketing,4,Female,4,Married,4,3
+Marketing,4,Male,4,Divorced,3,4
+Marketing,4,Female,2,Divorced,3,3
+Marketing,4,Male,4,Single,3,2
+Marketing,4,Male,4,Divorced,3,4
+Marketing,4,Female,3,Divorced,3,3
+Marketing,4,Female,2,Divorced,3,1
+Marketing,4,Female,3,Single,3,2
+Marketing,4,Female,3,Divorced,3,4
+Marketing,4,Female,2,Divorced,3,3
+Marketing,4,Female,3,Divorced,3,4
+Marketing,4,Male,2,Single,3,1
+Marketing,4,Male,3,Married,3,3
+Marketing,4,Female,4,Single,4,1
+Marketing,4,Male,4,Single,3,4
+Marketing,4,Male,1,Single,3,4
+Marketing,4,Male,2,Married,3,4
+Marketing,4,Male,2,Divorced,3,4
+Marketing,4,Male,1,Divorced,3,3
+Marketing,4,Male,3,Divorced,3,4
+Marketing,4,Female,3,Married,3,4
+Marketing,4,Male,3,Married,3,2
+Marketing,4,Female,4,Single,3,2
+Marketing,4,Male,2,Single,3,3
+Marketing,4,Male,4,Divorced,3,4
+Marketing,4,Male,3,Divorced,3,4
+Marketing,4,Female,2,Married,3,3
+Marketing,4,Female,4,Single,3,4
+Marketing,4,Male,2,Single,3,3
+Marketing,4,Female,3,Married,3,3
+Marketing,4,Female,4,Married,3,4
+Marketing,4,Female,1,Divorced,3,2
+Marketing,4,Male,4,Married,3,3
+Marketing,4,Male,3,Single,3,2
+Marketing,4,Female,2,Single,3,4
+Marketing,4,Female,4,Single,3,3
+Marketing,4,Male,4,Single,3,3
+Marketing,4,Female,3,Single,3,4
+Marketing,4,Female,1,Married,3,3
+Marketing,4,Male,4,Single,3,1
+Marketing,4,Male,1,Married,3,1
+Marketing,4,Female,3,Married,4,4
+Marketing,4,Male,4,Divorced,4,1
+Marketing,4,Male,1,Divorced,3,2
+Medical,1,Male,2,Married,3,4
+Medical,1,Male,2,Married,3,3
+Medical,1,Female,4,Married,3,4
+Medical,1,Male,4,Married,4,2
+Medical,1,Male,3,Single,3,1
+Medical,1,Male,2,Married,3,3
+Medical,1,Female,1,Single,4,3
+Medical,1,Female,1,Single,4,1
+Medical,1,Male,4,Married,4,4
+Medical,1,Male,3,Divorced,3,2
+Medical,1,Male,3,Divorced,3,4
+Medical,1,Male,2,Married,3,2
+Medical,1,Female,4,Divorced,3,1
+Medical,1,Female,1,Divorced,4,3
+Medical,1,Male,1,Married,3,3
+Medical,1,Male,2,Divorced,3,4
+Medical,1,Female,4,Single,3,3
+Medical,1,Male,4,Married,3,4
+Medical,1,Female,3,Married,4,2
+Medical,1,Male,4,Married,3,1
+Medical,1,Male,4,Single,4,3
+Medical,1,Female,2,Married,3,4
+Medical,1,Male,1,Married,3,3
+Medical,1,Male,1,Married,3,3
+Medical,1,Female,4,Divorced,3,3
+Medical,1,Male,4,Divorced,3,1
+Medical,1,Female,3,Divorced,3,3
+Medical,1,Male,3,Divorced,3,1
+Medical,1,Female,3,Single,3,4
+Medical,1,Female,3,Married,3,4
+Medical,1,Male,2,Divorced,3,4
+Medical,1,Male,2,Married,3,3
+Medical,1,Male,4,Divorced,4,4
+Medical,1,Female,3,Divorced,3,3
+Medical,1,Male,3,Married,4,4
+Medical,1,Male,4,Single,3,4
+Medical,1,Male,1,Married,3,1
+Medical,1,Male,3,Single,3,3
+Medical,1,Male,3,Single,3,4
+Medical,1,Male,3,Single,3,4
+Medical,1,Male,1,Single,3,3
+Medical,1,Male,1,Divorced,4,1
+Medical,1,Male,2,Single,3,4
+Medical,1,Female,4,Divorced,3,3
+Medical,1,Male,4,Single,3,2
+Medical,1,Male,3,Divorced,3,2
+Medical,1,Female,2,Married,3,1
+Medical,1,Female,3,Divorced,3,3
+Medical,1,Female,3,Married,3,2
+Medical,1,Male,1,Married,3,1
+Medical,1,Female,3,Single,4,2
+Medical,1,Male,3,Divorced,4,3
+Medical,1,Male,2,Single,4,2
+Medical,1,Male,2,Divorced,3,1
+Medical,1,Male,4,Single,4,3
+Medical,1,Male,4,Married,4,2
+Medical,1,Female,3,Married,3,3
+Medical,1,Male,4,Married,3,2
+Medical,1,Female,1,Married,3,3
+Medical,1,Female,2,Single,4,2
+Medical,1,Male,3,Married,3,3
+Medical,1,Female,4,Married,3,4
+Medical,1,Female,3,Single,3,1
+Medical,1,Male,4,Single,3,4
+Medical,1,Female,3,Single,3,1
+Medical,1,Female,3,Married,3,2
+Medical,1,Female,4,Single,3,3
+Medical,1,Female,2,Single,4,3
+Medical,1,Female,2,Married,3,4
+Medical,1,Male,4,Married,3,1
+Medical,1,Male,1,Married,3,4
+Medical,1,Male,4,Single,3,3
+Medical,1,Female,3,Single,3,3
+Medical,1,Female,3,Single,3,4
+Medical,1,Male,4,Divorced,3,4
+Medical,1,Male,2,Divorced,3,2
+Medical,1,Male,4,Single,3,3
+Medical,1,Male,4,Married,3,4
+Medical,1,Female,3,Married,4,4
+Medical,1,Female,3,Single,3,2
+Medical,1,Female,3,Married,3,4
+Medical,1,Female,3,Single,3,2
+Medical,1,Female,3,Divorced,3,2
+Medical,1,Male,1,Married,4,4
+Medical,1,Male,3,Single,4,2
+Medical,1,Female,4,Married,3,3
+Medical,1,Male,4,Married,3,2
+Medical,2,Male,4,Divorced,3,3
+Medical,2,Male,1,Single,3,3
+Medical,2,Male,4,Married,3,1
+Medical,2,Female,3,Divorced,3,4
+Medical,2,Male,1,Married,3,4
+Medical,2,Male,2,Divorced,4,4
+Medical,2,Male,3,Single,3,1
+Medical,2,Female,4,Divorced,3,4
+Medical,2,Male,3,Single,3,1
+Medical,2,Male,3,Married,3,2
+Medical,2,Male,2,Married,3,3
+Medical,2,Female,4,Single,3,3
+Medical,2,Female,3,Single,3,4
+Medical,2,Male,2,Divorced,4,4
+Medical,2,Male,4,Single,3,4
+Medical,2,Female,2,Single,3,4
+Medical,2,Female,2,Divorced,3,1
+Medical,2,Male,3,Married,3,3
+Medical,2,Female,2,Married,4,2
+Medical,2,Female,2,Single,3,4
+Medical,2,Male,1,Married,3,2
+Medical,2,Female,4,Single,3,1
+Medical,2,Female,4,Married,3,4
+Medical,2,Male,3,Married,3,4
+Medical,2,Male,3,Divorced,3,1
+Medical,2,Male,4,Married,4,2
+Medical,2,Male,4,Married,3,3
+Medical,2,Male,1,Single,3,3
+Medical,2,Male,4,Married,4,3
+Medical,2,Male,3,Single,3,1
+Medical,2,Male,3,Married,3,2
+Medical,2,Female,3,Married,4,2
+Medical,2,Female,1,Married,3,2
+Medical,2,Female,3,Married,3,1
+Medical,2,Male,3,Married,3,3
+Medical,2,Male,3,Married,3,4
+Medical,2,Male,4,Single,3,4
+Medical,2,Male,4,Married,3,2
+Medical,2,Male,3,Married,3,3
+Medical,2,Male,1,Divorced,3,3
+Medical,2,Female,3,Married,3,1
+Medical,2,Male,2,Divorced,3,3
+Medical,2,Female,3,Single,3,4
+Medical,2,Male,1,Married,3,4
+Medical,2,Female,3,Married,3,1
+Medical,2,Male,4,Divorced,3,4
+Medical,2,Male,4,Single,3,4
+Medical,2,Female,3,Divorced,3,3
+Medical,2,Female,2,Single,3,1
+Medical,2,Male,1,Single,3,4
+Medical,2,Male,2,Single,3,1
+Medical,2,Male,3,Married,3,4
+Medical,2,Male,1,Married,3,4
+Medical,2,Male,4,Single,3,1
+Medical,2,Male,4,Married,3,3
+Medical,2,Female,3,Single,3,3
+Medical,2,Female,4,Married,3,1
+Medical,2,Male,2,Married,3,4
+Medical,2,Female,3,Married,3,1
+Medical,2,Female,2,Married,3,4
+Medical,2,Female,3,Single,3,2
+Medical,2,Female,2,Single,4,3
+Medical,2,Female,1,Married,4,4
+Medical,2,Female,3,Divorced,4,2
+Medical,2,Male,3,Married,3,1
+Medical,2,Male,4,Divorced,3,4
+Medical,2,Male,3,Married,3,1
+Medical,2,Male,1,Divorced,3,2
+Medical,2,Male,1,Divorced,3,4
+Medical,2,Male,1,Single,3,3
+Medical,2,Male,3,Single,3,2
+Medical,2,Female,4,Divorced,4,1
+Medical,2,Male,1,Single,3,4
+Medical,2,Male,3,Married,3,3
+Medical,2,Female,4,Divorced,3,4
+Medical,2,Male,2,Married,3,2
+Medical,2,Male,1,Married,3,4
+Medical,2,Female,1,Divorced,4,2
+Medical,2,Female,4,Single,3,3
+Medical,2,Female,2,Married,3,1
+Medical,2,Female,3,Married,3,1
+Medical,2,Female,3,Married,4,3
+Medical,2,Male,4,Married,3,3
+Medical,2,Male,4,Married,3,3
+Medical,2,Male,2,Married,3,4
+Medical,2,Male,1,Divorced,3,2
+Medical,2,Male,2,Single,3,2
+Medical,2,Male,4,Married,3,3
+Medical,2,Male,2,Divorced,4,2
+Medical,2,Male,1,Married,3,3
+Medical,2,Male,4,Divorced,3,3
+Medical,2,Male,2,Divorced,4,4
+Medical,2,Male,3,Married,3,2
+Medical,2,Female,3,Single,3,3
+Medical,2,Female,3,Married,4,4
+Medical,2,Female,2,Married,3,4
+Medical,2,Male,4,Single,3,3
+Medical,2,Male,3,Single,3,3
+Medical,2,Male,1,Married,3,4
+Medical,2,Male,3,Divorced,3,3
+Medical,2,Male,3,Single,3,2
+Medical,2,Female,4,Married,3,1
+Medical,2,Male,2,Married,3,2
+Medical,2,Female,3,Married,3,1
+Medical,2,Male,4,Single,3,3
+Medical,2,Male,1,Single,3,2
+Medical,2,Male,3,Married,3,1
+Medical,3,Female,1,Married,4,1
+Medical,3,Male,3,Married,3,2
+Medical,3,Male,4,Single,3,4
+Medical,3,Female,4,Single,4,4
+Medical,3,Male,1,Married,3,3
+Medical,3,Female,1,Married,3,3
+Medical,3,Male,2,Single,3,2
+Medical,3,Male,4,Single,3,4
+Medical,3,Female,2,Divorced,3,2
+Medical,3,Male,1,Married,3,3
+Medical,3,Female,1,Single,3,4
+Medical,3,Female,1,Married,3,3
+Medical,3,Male,4,Single,3,2
+Medical,3,Male,4,Married,4,1
+Medical,3,Male,4,Married,3,3
+Medical,3,Male,3,Divorced,3,4
+Medical,3,Male,1,Divorced,3,3
+Medical,3,Female,4,Married,4,3
+Medical,3,Male,3,Married,3,4
+Medical,3,Male,2,Single,3,4
+Medical,3,Female,3,Divorced,3,2
+Medical,3,Male,4,Married,3,3
+Medical,3,Female,2,Married,4,4
+Medical,3,Male,3,Married,3,4
+Medical,3,Male,4,Single,3,3
+Medical,3,Male,4,Married,3,3
+Medical,3,Female,3,Divorced,3,3
+Medical,3,Female,1,Married,3,1
+Medical,3,Male,2,Single,3,2
+Medical,3,Male,4,Married,3,2
+Medical,3,Male,4,Married,3,2
+Medical,3,Male,3,Married,3,4
+Medical,3,Male,4,Divorced,3,1
+Medical,3,Male,1,Married,3,4
+Medical,3,Male,2,Married,3,1
+Medical,3,Male,4,Married,3,1
+Medical,3,Female,4,Single,3,3
+Medical,3,Female,2,Married,3,3
+Medical,3,Male,1,Divorced,3,1
+Medical,3,Female,1,Married,4,2
+Medical,3,Female,3,Married,3,3
+Medical,3,Male,1,Divorced,3,4
+Medical,3,Female,3,Divorced,3,3
+Medical,3,Female,4,Single,3,3
+Medical,3,Female,3,Married,3,3
+Medical,3,Female,3,Divorced,4,3
+Medical,3,Male,2,Married,3,3
+Medical,3,Male,3,Divorced,3,4
+Medical,3,Male,4,Married,3,3
+Medical,3,Female,4,Single,4,2
+Medical,3,Female,1,Single,3,3
+Medical,3,Female,2,Married,4,4
+Medical,3,Male,3,Married,3,4
+Medical,3,Male,3,Married,3,4
+Medical,3,Male,3,Single,3,4
+Medical,3,Female,4,Single,4,2
+Medical,3,Male,4,Single,3,3
+Medical,3,Female,3,Married,3,1
+Medical,3,Female,1,Single,3,4
+Medical,3,Female,3,Married,3,3
+Medical,3,Female,4,Married,4,3
+Medical,3,Female,4,Married,3,2
+Medical,3,Female,3,Single,3,4
+Medical,3,Female,3,Divorced,3,2
+Medical,3,Female,3,Single,3,1
+Medical,3,Male,1,Single,3,2
+Medical,3,Male,3,Single,4,3
+Medical,3,Female,1,Married,3,3
+Medical,3,Female,3,Married,3,2
+Medical,3,Male,3,Divorced,3,3
+Medical,3,Male,3,Divorced,3,3
+Medical,3,Male,1,Single,4,1
+Medical,3,Male,3,Married,3,2
+Medical,3,Female,3,Divorced,3,3
+Medical,3,Male,2,Married,3,4
+Medical,3,Male,1,Single,3,2
+Medical,3,Male,4,Divorced,3,3
+Medical,3,Male,3,Single,3,1
+Medical,3,Male,3,Single,3,4
+Medical,3,Male,3,Married,3,3
+Medical,3,Female,4,Divorced,3,3
+Medical,3,Female,4,Married,3,4
+Medical,3,Male,1,Married,3,4
+Medical,3,Female,1,Single,3,2
+Medical,3,Female,2,Divorced,3,3
+Medical,3,Female,3,Single,3,3
+Medical,3,Male,4,Married,3,3
+Medical,3,Female,2,Divorced,3,4
+Medical,3,Male,1,Single,3,1
+Medical,3,Male,2,Single,3,1
+Medical,3,Female,1,Single,3,4
+Medical,3,Female,1,Married,3,4
+Medical,3,Female,4,Married,3,2
+Medical,3,Male,3,Divorced,3,3
+Medical,3,Female,3,Married,3,3
+Medical,3,Male,1,Single,3,3
+Medical,3,Female,1,Married,4,1
+Medical,3,Male,4,Single,4,2
+Medical,3,Male,4,Single,3,4
+Medical,3,Male,2,Married,3,2
+Medical,3,Male,4,Single,4,4
+Medical,3,Male,2,Married,3,1
+Medical,3,Male,2,Married,3,3
+Medical,3,Female,1,Single,3,1
+Medical,3,Male,4,Single,3,3
+Medical,3,Male,3,Divorced,3,4
+Medical,3,Male,4,Married,4,2
+Medical,3,Male,3,Single,3,3
+Medical,3,Female,3,Single,3,1
+Medical,3,Male,4,Divorced,4,3
+Medical,3,Male,4,Divorced,3,3
+Medical,3,Male,3,Married,3,4
+Medical,3,Female,2,Single,3,3
+Medical,3,Female,4,Single,3,3
+Medical,3,Female,2,Married,3,2
+Medical,3,Male,1,Married,3,2
+Medical,3,Female,1,Married,3,3
+Medical,3,Male,4,Divorced,3,3
+Medical,3,Male,2,Divorced,3,3
+Medical,3,Male,3,Single,4,3
+Medical,3,Female,1,Married,4,3
+Medical,3,Male,4,Single,3,1
+Medical,3,Male,1,Married,3,2
+Medical,3,Female,4,Divorced,3,4
+Medical,3,Male,3,Single,3,3
+Medical,3,Male,1,Divorced,3,4
+Medical,3,Male,1,Single,3,4
+Medical,3,Female,4,Divorced,3,2
+Medical,3,Female,3,Married,4,3
+Medical,3,Female,1,Single,3,4
+Medical,3,Female,2,Married,3,1
+Medical,3,Male,1,Single,3,4
+Medical,3,Female,3,Married,3,2
+Medical,3,Male,4,Married,3,3
+Medical,4,Male,4,Divorced,3,2
+Medical,4,Male,3,Single,3,1
+Medical,4,Female,3,Divorced,3,4
+Medical,4,Female,3,Divorced,3,3
+Medical,4,Male,3,Married,3,1
+Medical,4,Male,3,Single,3,3
+Medical,4,Male,4,Married,3,3
+Medical,4,Female,4,Married,3,4
+Medical,4,Male,4,Divorced,3,4
+Medical,4,Male,2,Divorced,3,4
+Medical,4,Male,2,Single,3,3
+Medical,4,Female,2,Single,3,4
+Medical,4,Female,1,Divorced,3,3
+Medical,4,Female,2,Married,3,4
+Medical,4,Female,3,Married,3,2
+Medical,4,Female,2,Single,3,3
+Medical,4,Female,2,Single,3,4
+Medical,4,Male,4,Divorced,3,4
+Medical,4,Male,3,Divorced,3,4
+Medical,4,Male,1,Divorced,3,3
+Medical,4,Male,4,Married,3,3
+Medical,4,Female,4,Single,3,4
+Medical,4,Female,4,Divorced,3,3
+Medical,4,Female,1,Divorced,3,3
+Medical,4,Male,1,Single,3,3
+Medical,4,Male,4,Married,4,4
+Medical,4,Male,3,Single,3,1
+Medical,4,Male,2,Divorced,3,4
+Medical,4,Female,3,Single,3,1
+Medical,4,Female,4,Married,3,4
+Medical,4,Female,3,Married,3,1
+Medical,4,Male,4,Divorced,3,3
+Medical,4,Male,2,Single,3,4
+Medical,4,Female,4,Single,3,2
+Medical,4,Male,3,Married,3,3
+Medical,4,Male,2,Divorced,3,2
+Medical,4,Male,4,Married,4,1
+Medical,4,Male,3,Married,3,3
+Medical,4,Male,1,Married,4,4
+Medical,4,Male,4,Married,3,3
+Medical,4,Male,3,Divorced,3,2
+Medical,4,Female,1,Single,4,4
+Medical,4,Male,3,Single,3,4
+Medical,4,Female,4,Divorced,4,2
+Medical,4,Male,3,Married,3,3
+Medical,4,Female,2,Single,3,2
+Medical,4,Female,3,Divorced,3,4
+Medical,4,Female,4,Single,4,4
+Medical,4,Female,1,Single,3,1
+Medical,4,Male,3,Married,3,2
+Medical,4,Male,1,Married,3,4
+Medical,4,Male,4,Married,3,1
+Medical,4,Female,1,Divorced,3,2
+Medical,4,Male,4,Married,3,3
+Medical,4,Male,2,Single,3,4
+Medical,4,Male,1,Married,4,4
+Medical,4,Male,3,Married,3,1
+Medical,4,Male,1,Single,3,3
+Medical,4,Female,4,Married,3,3
+Medical,4,Male,2,Divorced,3,4
+Medical,4,Female,4,Divorced,3,4
+Medical,4,Male,4,Divorced,4,3
+Medical,4,Male,3,Divorced,3,2
+Medical,4,Female,3,Divorced,3,2
+Medical,4,Female,1,Single,3,1
+Medical,4,Male,4,Married,3,2
+Medical,4,Female,3,Single,3,2
+Medical,4,Female,4,Married,3,3
+Medical,4,Female,1,Single,3,3
+Medical,4,Female,3,Single,3,2
+Medical,4,Male,2,Married,4,2
+Medical,4,Male,4,Divorced,3,4
+Medical,4,Female,4,Single,3,2
+Medical,4,Male,1,Married,3,4
+Medical,4,Female,2,Divorced,3,2
+Medical,4,Male,3,Married,3,2
+Medical,4,Male,2,Single,4,4
+Medical,4,Male,1,Single,4,3
+Medical,4,Female,3,Divorced,3,2
+Medical,4,Female,1,Married,4,3
+Medical,4,Male,1,Married,3,3
+Medical,4,Male,1,Married,3,1
+Medical,4,Male,2,Married,4,1
+Medical,4,Male,2,Divorced,3,4
+Medical,4,Male,4,Single,3,4
+Medical,4,Male,3,Single,3,3
+Medical,4,Female,2,Single,3,4
+Medical,4,Female,3,Married,3,4
+Medical,4,Male,4,Married,3,3
+Medical,4,Female,4,Married,3,2
+Medical,4,Male,3,Married,3,4
+Medical,4,Female,3,Married,3,2
+Medical,4,Female,4,Single,3,4
+Medical,4,Female,1,Married,4,3
+Medical,4,Female,3,Married,3,3
+Medical,4,Female,2,Single,3,4
+Medical,4,Male,2,Divorced,3,3
+Medical,4,Male,1,Single,3,4
+Medical,4,Male,2,Single,3,2
+Medical,4,Male,1,Married,3,1
+Medical,4,Male,1,Single,3,2
+Medical,4,Male,3,Married,3,1
+Medical,4,Female,3,Married,3,4
+Medical,4,Male,1,Married,3,3
+Medical,4,Male,4,Single,3,3
+Medical,4,Male,2,Married,4,3
+Medical,4,Female,3,Married,3,3
+Medical,4,Male,4,Divorced,3,3
+Medical,4,Male,2,Divorced,3,3
+Medical,4,Female,1,Divorced,3,2
+Medical,4,Female,2,Single,4,2
+Medical,4,Male,3,Single,3,1
+Medical,4,Female,3,Married,3,4
+Medical,4,Female,3,Married,3,3
+Medical,4,Male,4,Single,4,3
+Medical,4,Male,4,Married,3,1
+Medical,4,Female,3,Married,3,3
+Medical,4,Male,3,Married,3,3
+Medical,4,Male,4,Married,3,1
+Medical,4,Male,1,Single,3,2
+Medical,4,Female,2,Married,3,3
+Medical,4,Female,2,Married,4,4
+Medical,4,Female,4,Married,3,2
+Medical,4,Male,4,Married,3,2
+Medical,4,Male,2,Married,3,4
+Medical,4,Male,1,Married,4,3
+Medical,4,Female,4,Divorced,3,2
+Medical,4,Female,4,Married,3,3
+Medical,4,Female,2,Divorced,3,3
+Medical,4,Male,3,Divorced,3,3
+Medical,4,Female,4,Divorced,3,3
+Medical,4,Male,2,Married,3,3
+Medical,4,Male,3,Married,3,3
+Medical,4,Female,1,Single,3,2
+Medical,4,Male,1,Married,3,1
+Medical,4,Male,2,Married,3,4
+Other,1,Female,3,Divorced,3,4
+Other,1,Female,3,Married,4,1
+Other,1,Female,3,Single,3,3
+Other,1,Male,4,Single,4,2
+Other,1,Female,3,Single,3,1
+Other,1,Male,4,Single,3,4
+Other,1,Female,2,Married,3,3
+Other,1,Male,3,Divorced,3,2
+Other,1,Female,2,Married,3,2
+Other,1,Female,3,Divorced,4,2
+Other,2,Male,4,Divorced,3,3
+Other,2,Male,1,Married,3,4
+Other,2,Male,4,Single,3,3
+Other,2,Male,3,Single,4,3
+Other,2,Male,3,Married,3,4
+Other,2,Male,4,Divorced,3,3
+Other,2,Male,4,Single,3,3
+Other,2,Male,4,Divorced,4,1
+Other,2,Male,1,Single,3,1
+Other,2,Female,3,Married,3,2
+Other,2,Female,4,Married,3,4
+Other,3,Female,3,Divorced,3,4
+Other,3,Male,4,Divorced,3,3
+Other,3,Female,2,Married,3,3
+Other,3,Male,4,Married,3,3
+Other,3,Female,3,Divorced,3,4
+Other,3,Female,1,Married,3,3
+Other,3,Male,1,Divorced,3,3
+Other,3,Male,3,Married,3,3
+Other,3,Female,4,Married,3,3
+Other,3,Female,2,Married,3,1
+Other,3,Male,3,Single,4,2
+Other,3,Male,1,Married,3,4
+Other,3,Male,1,Single,3,2
+Other,3,Male,3,Divorced,3,1
+Other,3,Female,2,Married,3,1
+Other,3,Male,2,Divorced,4,4
+Other,3,Male,3,Married,3,1
+Other,3,Male,1,Married,3,3
+Other,3,Female,3,Single,3,4
+Other,3,Female,2,Married,4,3
+Other,3,Female,1,Married,3,3
+Other,3,Male,1,Single,3,4
+Other,3,Female,4,Single,3,1
+Other,3,Male,3,Divorced,3,3
+Other,3,Female,1,Married,3,3
+Other,3,Female,1,Married,3,4
+Other,3,Male,2,Divorced,3,3
+Other,3,Male,4,Married,3,1
+Other,3,Male,4,Married,3,2
+Other,4,Male,3,Single,3,2
+Other,4,Male,4,Married,3,4
+Other,4,Male,1,Married,3,2
+Other,4,Male,4,Married,3,1
+Other,4,Male,2,Married,3,2
+Other,4,Male,3,Married,3,4
+Other,4,Male,2,Married,4,4
+Other,4,Male,4,Married,3,1
+Other,4,Male,4,Single,3,3
+Other,4,Male,4,Single,4,3
+Other,4,Female,4,Single,3,1
+Other,4,Male,2,Single,3,2
+Other,4,Female,2,Single,3,1
+Other,4,Male,3,Single,3,4
+Other,4,Male,4,Married,3,2
+Other,4,Male,4,Single,4,2
+Other,4,Male,1,Divorced,3,3
+Other,4,Male,1,Single,3,4
+Other,4,Male,4,Single,4,4
+Other,4,Male,1,Single,3,4
+Other,4,Male,1,Divorced,3,1
+Other,4,Female,4,Divorced,3,1
+Other,4,Male,4,Single,4,1
+Other,4,Female,3,Married,3,2
+Other,4,Female,2,Married,4,4
+Other,4,Male,4,Divorced,3,2
+Other,4,Female,2,Married,3,4
+Other,4,Male,2,Married,3,2
+Other,4,Male,4,Single,3,3
+Other,4,Male,3,Divorced,3,3
+Other,4,Male,2,Married,3,1
+Other,4,Female,3,Single,3,4
+Technical Degree,1,Female,3,Married,3,1
+Technical Degree,1,Male,4,Divorced,3,1
+Technical Degree,1,Female,2,Single,3,3
+Technical Degree,1,Female,2,Single,3,2
+Technical Degree,1,Male,4,Single,3,3
+Technical Degree,1,Male,1,Single,3,2
+Technical Degree,1,Male,4,Divorced,3,4
+Technical Degree,1,Male,4,Married,4,4
+Technical Degree,1,Female,4,Married,3,1
+Technical Degree,1,Female,3,Divorced,4,3
+Technical Degree,1,Male,4,Married,3,2
+Technical Degree,1,Male,4,Married,3,3
+Technical Degree,1,Female,3,Married,3,4
+Technical Degree,1,Male,3,Married,3,2
+Technical Degree,1,Male,3,Married,3,4
+Technical Degree,1,Female,2,Single,3,1
+Technical Degree,1,Male,1,Single,3,3
+Technical Degree,1,Male,2,Divorced,3,1
+Technical Degree,1,Female,4,Single,3,3
+Technical Degree,1,Male,2,Divorced,3,4
+Technical Degree,1,Male,3,Married,3,3
+Technical Degree,1,Female,3,Married,3,4
+Technical Degree,1,Female,1,Divorced,3,4
+Technical Degree,2,Female,3,Married,3,4
+Technical Degree,2,Female,4,Married,3,3
+Technical Degree,2,Male,4,Married,3,4
+Technical Degree,2,Male,4,Married,3,2
+Technical Degree,2,Female,3,Single,3,2
+Technical Degree,2,Female,4,Single,3,4
+Technical Degree,2,Male,3,Married,3,1
+Technical Degree,2,Male,3,Single,3,1
+Technical Degree,2,Male,4,Married,3,3
+Technical Degree,2,Male,1,Single,3,1
+Technical Degree,2,Female,3,Married,3,3
+Technical Degree,2,Female,2,Divorced,3,2
+Technical Degree,2,Female,3,Divorced,3,1
+Technical Degree,2,Male,4,Married,3,4
+Technical Degree,2,Male,3,Married,4,2
+Technical Degree,2,Male,2,Single,3,2
+Technical Degree,2,Male,3,Married,4,3
+Technical Degree,2,Male,4,Married,4,2
+Technical Degree,2,Female,3,Married,3,1
+Technical Degree,2,Male,2,Married,3,3
+Technical Degree,3,Male,3,Single,3,3
+Technical Degree,3,Female,3,Divorced,3,2
+Technical Degree,3,Male,1,Divorced,3,3
+Technical Degree,3,Male,4,Married,3,3
+Technical Degree,3,Male,2,Married,3,4
+Technical Degree,3,Female,1,Single,4,1
+Technical Degree,3,Male,1,Married,3,3
+Technical Degree,3,Male,3,Single,3,4
+Technical Degree,3,Male,4,Married,3,4
+Technical Degree,3,Female,3,Single,4,4
+Technical Degree,3,Female,2,Married,3,2
+Technical Degree,3,Male,2,Single,3,4
+Technical Degree,3,Male,4,Married,3,3
+Technical Degree,3,Female,3,Single,3,4
+Technical Degree,3,Female,2,Married,3,4
+Technical Degree,3,Male,2,Single,3,4
+Technical Degree,3,Male,3,Divorced,3,3
+Technical Degree,3,Male,2,Married,3,1
+Technical Degree,3,Male,1,Single,4,3
+Technical Degree,3,Male,4,Single,4,3
+Technical Degree,3,Female,2,Married,3,2
+Technical Degree,3,Male,3,Single,3,3
+Technical Degree,3,Male,4,Single,3,2
+Technical Degree,3,Female,3,Divorced,3,4
+Technical Degree,3,Male,3,Single,3,3
+Technical Degree,3,Male,4,Divorced,3,2
+Technical Degree,3,Female,1,Married,3,2
+Technical Degree,3,Female,2,Divorced,3,4
+Technical Degree,3,Female,4,Married,3,2
+Technical Degree,3,Female,4,Single,3,2
+Technical Degree,3,Female,2,Married,3,2
+Technical Degree,3,Female,3,Married,3,3
+Technical Degree,3,Male,3,Single,3,2
+Technical Degree,3,Female,1,Divorced,4,3
+Technical Degree,3,Male,2,Married,3,3
+Technical Degree,3,Female,3,Married,3,4
+Technical Degree,3,Female,4,Single,3,4
+Technical Degree,3,Male,3,Single,3,1
+Technical Degree,3,Male,3,Divorced,3,2
+Technical Degree,3,Male,1,Divorced,3,2
+Technical Degree,3,Male,2,Married,3,2
+Technical Degree,3,Female,4,Married,3,2
+Technical Degree,3,Male,3,Married,3,4
+Technical Degree,3,Male,3,Married,4,2
+Technical Degree,3,Male,1,Single,3,4
+Technical Degree,3,Male,2,Married,3,3
+Technical Degree,3,Male,4,Divorced,3,1
+Technical Degree,4,Male,4,Married,3,3
+Technical Degree,4,Female,3,Single,4,2
+Technical Degree,4,Female,1,Divorced,3,4
+Technical Degree,4,Male,3,Married,3,1
+Technical Degree,4,Male,4,Married,3,1
+Technical Degree,4,Female,1,Single,3,3
+Technical Degree,4,Male,1,Single,3,4
+Technical Degree,4,Female,3,Married,3,2
+Technical Degree,4,Male,4,Single,3,4
+Technical Degree,4,Female,4,Married,3,4
+Technical Degree,4,Male,4,Divorced,3,2
+Technical Degree,4,Male,1,Divorced,3,2
+Technical Degree,4,Female,3,Single,3,1
+Technical Degree,4,Male,1,Single,3,3
+Technical Degree,4,Male,2,Married,3,1
+Technical Degree,4,Female,1,Married,3,2
+Technical Degree,4,Male,3,Single,4,1
+Technical Degree,4,Male,1,Single,4,1
+Technical Degree,4,Male,4,Married,3,2
+Technical Degree,4,Female,2,Single,3,3
+Technical Degree,4,Male,2,Married,3,2
+Technical Degree,4,Female,1,Divorced,3,4
+Technical Degree,4,Male,4,Divorced,3,3
+Technical Degree,4,Male,2,Single,3,3
+Technical Degree,4,Male,1,Single,3,2
+Technical Degree,4,Female,3,Married,3,1
+Technical Degree,4,Female,2,Single,3,2
+Technical Degree,4,Male,3,Married,3,4
+Technical Degree,4,Male,4,Married,4,4
+Technical Degree,4,Male,1,Married,3,2
+Technical Degree,4,Male,3,Married,3,4
+Technical Degree,4,Male,3,Married,3,2
+Technical Degree,4,Male,2,Divorced,3,3
+Technical Degree,4,Female,2,Single,3,3
+Technical Degree,4,Female,4,Single,4,4
+Technical Degree,4,Female,1,Single,3,4
+Technical Degree,4,Female,1,Divorced,3,3
+Technical Degree,4,Male,2,Divorced,3,4
+Technical Degree,4,Male,1,Married,4,2
+Technical Degree,4,Female,3,Married,3,1
+Technical Degree,4,Male,3,Married,3,4
+Technical Degree,4,Male,1,Single,3,4
