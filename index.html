@@ -1,24 +1,26 @@
 <html>
     <head>
-        <title>Data</title>
+        <title>Major Analysis</title>
         <script src="https://d3js.org/d3.v5.min.js"></script>
         <link rel="stylesheet" type="text/css" href="styleSheet.css" />
     </head>
     
     <body >
-        <h1>Data</h1>
+        <h1 id ="title">Major Analysis</h1>
         <div>
-            <button id = "major_start">Major vs Starting Median Salary</button>
-            <button id = "major_mid">Major vs Mid-Career Median Salary</button>
-            <button id = "major_unemployed">Major vs Unemployed</button>
-            <button id = "major_employed">Major vs employed</button>
-            <button id = "major_jobSatisfy">Major vs Job Satisfycation</button>
-            <button id = "major_worken">Major vs Working Environment Satisfication</button>
-            <button id = "major_relationship">Major vs Relationship Satisfication</button>
+            <div id = "major_start">Major vs Starting Median Salary</div>
+            <div id = "major_mid">Major vs Mid-Career Median Salary</div>
+            <div id = "major_unemployed">Major vs Unemployed</div>
+            <div id = "major_employed">Major vs employed</div>
+            <div id = "major_jobSatisfy">Major vs Job Satisfycation</div>
+            <div id = "major_worken">Major vs Working Environment Satisfication</div>
+            <div id = "major_relationship">Major vs Relationship Satisfication</div>
         </div>
         <div>
         <svg id="dataPlot"></svg>
-        <script src="javascript.js"></script>
         </div>
+        <script src="javascript.js"></script>
+        <div id="tooltip" class="hidden"> </div>
+        <div id="text"></div>
     </body>
 </html>

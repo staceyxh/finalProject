@@ -45,7 +45,7 @@ var initButtons = function(majors,satisfications,target,lengths)
 {
     
     d3.select("#major_start")
-    .on("click",function()
+    .on("mouseover",function()
     {
         clearScatter(target);
         var div = 105000;
@@ -53,7 +53,7 @@ var initButtons = function(majors,satisfications,target,lengths)
     })  
     
      d3.select("#major_mid")
-    .on("click",function()
+    .on("mouseover",function()
     {
         clearScatter(target);
         var div = 145000;
@@ -61,7 +61,7 @@ var initButtons = function(majors,satisfications,target,lengths)
     }) 
     
     d3.select("#major_unemployed")
-    .on("click",function()
+    .on("mouseover",function()
     {
         clearScatter(target);
         var div = 10;
@@ -69,7 +69,7 @@ var initButtons = function(majors,satisfications,target,lengths)
     }) 
     
     d3.select("#major_employed")
-    .on("click",function()
+    .on("mouseover",function()
     {
         clearScatter(target);
         var div = 130;
@@ -77,11 +77,27 @@ var initButtons = function(majors,satisfications,target,lengths)
     }) 
     
     d3.select("#major_jobSatisfy")
-    .on("click",function()
+    .on("mouseover",function()
     {
         clearScatter(target);
-        var div = 130;
-        DrawViolin(satisfications,target,lengths);
+        console.log("job satisfy");
+        DrawViolin(satisfications,target,lengths,"JobSatisfaction");
+    })
+    
+    d3.select("#major_worken")
+    .on("mouseover",function()
+    {
+        clearScatter(target);
+        console.log("en satisfy");
+        DrawViolin(satisfications,target,lengths,"EnvironmentSatisfaction");
+    })
+    
+    d3.select("#major_relationship")
+    .on("mouseover",function()
+    {
+        clearScatter(target);
+        console.log("relationship satisfy")
+        DrawViolin(satisfications,target,lengths,"RelationshipSatisfaction");
     })
     
 }
@@ -180,17 +196,18 @@ var DrawCircle = function(majors,target,lengths,yProp,div)
     
 }
 
-var DrawViolin = function(satisfications,target,lengths)
-{
+var DrawViolin = function(satisfications,target,lengths,yProp)
+{    
     var xScale = d3.scaleBand()
     .range([0,lengths.graph.width])
     .domain(["Human Resources","Life Sciences","Marketing","Medical","Technical Degree","Other"])
     .padding(0.05)
     
+    
     var yScale = d3.scaleLinear()
     .domain([0,5])
     .range([lengths.graph.height,0])
-    
+
     var xAxis = d3.axisBottom(xScale);
     var yAxis = d3.axisLeft(yScale);
     
@@ -211,14 +228,12 @@ var DrawViolin = function(satisfications,target,lengths)
     var histogram = d3.histogram()
         .domain(yScale.domain())
         .thresholds(yScale.ticks(10))
-        .value(satisfications.map(function(satisfication){return satisfication.EnvironmentSatisfaction;}))
   
    var sumstat = d3.nest()
         .key(function(d){ return d.EducationField;})
         .rollup(function(d){
-            input = d.map(function(g){return (g.EnvironmentSatisfaction);})
+            input = d.map(function(g){return (g[yProp]);})
             bins = histogram(input)
-            console.log("-----",bins)
             return bins
         })
         .entries(satisfications)
@@ -232,24 +247,50 @@ var DrawViolin = function(satisfications,target,lengths)
     if (longest > maxNum) { maxNum = longest }
     }
     
+
     var xNum = d3.scaleLinear()
         .range([0,xScale.bandwidth()])
         .domain([-maxNum,maxNum])
     
+    var myColor = d3.scaleSequential()
+    .interpolator(d3.interpolateInferno)
+    .domain([0,5])
+    
+    
     d3.select(target)
     .select(".graph")
+    .attr("transform","translate("+50+","+100+")")
     .selectAll("myViolin")
     .data(sumstat)
     .enter()        
     .append("g")
     .attr("transform", function(d){ return("translate(" + xScale(d.key) +" ,0)") } ) 
     .append("path")
-    .datum(satisfications.map(function(satisfication){return satisfication.EnvironmentSatisfaction}))
+    .classed("path",true)
+    .datum(function(d){ return(d.value)})
+    .style("stroke", "none")
+    .style("fill", "grey")
     .attr("d", d3.area()
-    .x0(function(d){ return(xNum(-d.length)) } )
+    .x0(xNum(0) )
     .x1(function(d){ return(xNum(d.length)) } )
     .y(function(d){ return(yScale(d.x0))})
     .curve(d3.curveCatmullRom))
+
+    
+    var scatter = 40
+    d3.select(target)
+    .select(".graph")
+    .attr("transform","translate("+50+","+100+")")
+    .selectAll("indPoints")
+    .data(satisfications)
+    .enter()
+    .append("circle")
+      .attr("cx", function(d){return(xScale(d.EducationField) + xScale.bandwidth()/2 - Math.random()*scatter)})
+      .attr("cy", function(d){return(yScale(d[yProp]))})
+      .attr("r", 3)
+      .style("fill", function(d){ return(myColor(d[yProp]))})
+      .attr("stroke", "white")
+    
 }
 
 var clearScatter = function(target)
